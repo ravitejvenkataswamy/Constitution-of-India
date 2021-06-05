@@ -2,8 +2,8 @@
 
 [[The Governor]]
 
-[[_Council of Ministers_]]
+[[Council of Ministers_2]]
 
-[[_The Advocate-General for the State]]
+[[The Advocate-General for the State]]
 
 [[Conduct of Government Business2]]

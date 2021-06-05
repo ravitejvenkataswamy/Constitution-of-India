@@ -1,4 +1,4 @@
-###### **_Council of Ministers_**
+###### **Council of Ministers**
 
 [[163. Council of Ministers to aid and advise Governor]]
 
