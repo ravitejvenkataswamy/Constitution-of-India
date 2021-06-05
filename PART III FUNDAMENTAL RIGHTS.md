@@ -1,16 +1,16 @@
 ### **PART III: FUNDAMENTAL RIGHTS**
-![[General]]
+[[General]]
 
-![[Right to Equality]]
+[[Right to Equality]]
 
-![[Right to Freedom]]
+[[Right to Freedom]]
 
-![[Right against Exploitation]]
+[[Right against Exploitation]]
 
-![[Right to Freedom of Religion]]
+[[Right to Freedom of Religion]]
 
-![[Cultural and Educational Rights]]
+[[Cultural and Educational Rights]]
 
-![[Saving of Certain Laws]]
+[[Saving of Certain Laws]]
 
-![[Right to Constitutional Remedies]]
+[[Right to Constitutional Remedies]]
