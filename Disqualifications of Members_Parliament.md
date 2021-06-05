@@ -1,6 +1,6 @@
-[[101. Vacation of seats-]]
+[[101. Vacation of seats]]
 
-[[102. Disqualifications for membership-]] 
+[[102. Disqualifications for membership]] 
 
 (^3)[[103. Decision on questions as to disqualifications of members-]]
 
