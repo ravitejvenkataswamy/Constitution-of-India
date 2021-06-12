@@ -1,0 +1,4 @@
+- Open the file for writing.
+- For existing file, the data is truncated and over-written.
+- The handle is positioned at the beginning of the file
+- Creates the file, if the file doesn't exists.

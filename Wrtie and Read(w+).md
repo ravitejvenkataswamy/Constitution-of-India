@@ -1,0 +1,3 @@
+- Open the file for reading and writing.
+- For existing file, data is truncated and over-written
+- The handle is positioned at the beginning of the file.

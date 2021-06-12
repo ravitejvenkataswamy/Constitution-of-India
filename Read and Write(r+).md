@@ -1,0 +1,3 @@
+- Open the file for reading and writing.
+- The handle is positioned at the begining of the file.
+-  Raises I/O #error if the file doesn't exists.
