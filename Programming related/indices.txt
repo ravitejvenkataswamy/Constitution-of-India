@@ -597,7 +597,7 @@ articles = ["1. Name and territory of the Union",
 
 "251. Inconsistency between laws made by Parliament under articles 249 and 250 and laws made by theLegislatures of States",
 
-"252. Power of Parliament to legislate for two or more States by consent and adoption of such legislationby any other State",
+"252. Power of Parliament to legislate for two or more States by consent and adoption of such legislation by any other State",
 
 "253. Legislation for giving effect to international agreements",
 
@@ -661,7 +661,7 @@ articles = ["1. Name and territory of the Union",
 
 "282. Expenditure defrayable by the Union or a State out of its revenues",
 
-"283. Custody, etc., of Consolidated Funds, Contingency Funds and moneys credited to the publicaccounts",
+"283. Custody, etc., of Consolidated Funds, Contingency Funds and moneys credited to the public accounts",
 
 "284. Custody of suitors‘ deposits and other moneys received by public servants and courts",
 
@@ -689,7 +689,7 @@ articles = ["1. Name and territory of the Union",
 
 "296. Property accruing by escheat or laps or as bona vacantia",
 
-"297. Things of value within territorial waters or continental shelf and resources of the exclusiveeconomic zone to vest in the Union. 298 .Power to carry on trade, etc",
+"297. Things of value within territorial waters or continental shelf and resources of the exclusive economic zone to vest in the Union. 298 .Power to carry on trade, etc",
 
 "299. Contracts",
 
@@ -716,7 +716,7 @@ articles = ["1. Name and territory of the Union",
 
 "310. Tenure of office of persons serving the Union or a State",
 
-"311. Dismissal, removal or reduction in rank of persons employed in civil capacities under the Unionor a State",
+"311. Dismissal, removal or reduction in rank of persons employed in civil capacities under the Union or a State",
 
 "312. All-India services",
 
@@ -746,9 +746,9 @@ articles = ["1. Name and territory of the Union",
 
 "324. Superintendence, direction and control of elections to be vested in an Election Commission",
 
-"325. No person to be ineligible for inclusion in, or to claim to be included in a special, electoral roll ongrounds of religion, race, caste or sex",
+"325. No person to be ineligible for inclusion in, or to claim to be included in a special, electoral roll on grounds of religion, race, caste or sex",
 
-"326. Elections to the House of the People and to the Legislative Assemblies of States to be on the basisof adult suffrage",
+"326. Elections to the House of the People and to the Legislative Assemblies of States to be on the basis of adult suffrage",
 
 "327. Power of Parliament to make provision with respect to elections to Legislatures",
 
@@ -761,7 +761,7 @@ articles = ["1. Name and territory of the Union",
 
 "331. Representation of the Anglo-Indian community in the House of the People",
 
-"332. Reservation of seats for Scheduled Castes and Scheduled Tribes in the Legislative Assemblies ofthe States",
+"332. Reservation of seats for Scheduled Castes and Scheduled Tribes in the Legislative Assemblies of the States",
 
 "333. Representation of the Anglo-Indian community in the Legislative Assemblies of the States",
 
@@ -813,7 +813,7 @@ articles = ["1. Name and territory of the Union",
 
 "353. Effect of Proclamation of Emergency",
 
-"354. Application of provisions relating to distribution of revenues while a Proclamation of Emergency isin operation",
+"354. Application of provisions relating to distribution of revenues while a Proclamation of Emergency is in operation",
 
 "355. Duty of the Union to protect States against external aggression and internal disturbance",
 
@@ -851,7 +851,7 @@ articles = ["1. Name and territory of the Union",
 
 "368. Power of Parliament to amend the Constitution and procedure therefor",
 
-"369. Temporary power to Parliament to make laws with respect to certain matters in the State List as ifthey were matters in the Concurrent List",
+"369. Temporary power to Parliament to make laws with respect to certain matters in the State List as if they were matters in the Concurrent List",
 
 "370. Temporary provisions with respect to the State of Jammu and Kashmir",
 
@@ -862,7 +862,7 @@ articles = ["1. Name and territory of the Union",
 "371D. Special provisions with respect to the State of Andhra Pradesh or the State of Telangana",
 "371E. Establishment of Central University in Andhra Pradesh",
 "371F. Special provisions with respect to the State of Sikkim",
-"371G. Specil provision with respect to the State of Mizoram",
+"371G. Special provision with respect to the State of Mizoram",
 "371H. Special provision with respect to the State of Arunachal Pradesh",
 "371I. Special provision with respect to the State of Goa",
 "371J. Special provisions with respect to the State of Karnataka",

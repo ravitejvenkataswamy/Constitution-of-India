@@ -7,7 +7,7 @@ articles = ["1. Name and territory of the Union",
 
 "3. Formation of new States and alteration of areas, boundaries or names of existing States",
 
-"4. Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and  supplemental, incidental and consequential matters",
+"4. Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters",
 
 "5. Citizenship at the commencement of the Constitution",
 
@@ -129,7 +129,7 @@ articles = ["1. Name and territory of the Union",
 
 "63. The Vice-President of India",
 
-"64. The Vice-President to be _ex officio_ Chairman of the Council of States",
+"64. The Vice-President to be ex officio Chairman of the Council of States",
 
 "65. The Vice-President to act as President or to discharge his functions during casual vacancies in the office, or during the absence, of President",
 
@@ -157,7 +157,7 @@ articles = ["1. Name and territory of the Union",
 
 "77. Conduct of business of the Government of India",
 
-"78. Duties of Prime Minister as respects the furnishing of information to the President, etc]",
+"78. Duties of Prime Minister as respects the furnishing of information to the President, etc",
 
 "79. Constitution of Parliament",
 
@@ -177,7 +177,7 @@ articles = ["1. Name and territory of the Union",
 
 "87. Special address by the President",
 
-"88. Rights of Ministers and Attorney- General as respects Houses",
+"88. Rights of Ministers and Attorney"
 
 "89. The Chairman and Deputy Chairman of the Council of States",
 
@@ -187,7 +187,7 @@ articles = ["1. Name and territory of the Union",
 
 "92. The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is under consideration",
 
-"93. The Speaker and Deputy Speaker of the House of the People 37",
+"93. The Speaker and Deputy Speaker of the House of the People",
 
 "94. Vacation and resignation of, and removal from, the offices of Speaker and Deputy Speaker",
 
@@ -895,3 +895,38 @@ articles = ["1. Name and territory of the Union",
 "394. Commencement. 394A. Authoritative text in the Hindi language",
 
 "395. Repeals."]
+
+
+
+''' whenever you findout the string "1. Name and territory of the Union" in the file named articlesonly.txt search until "2. Admission or establishment of new States" and add everything in between to a
+newly created file named "1. Name and territory of the Union.md" '''
+count = 0
+count2 = 0
+for i in range(len(articles)):
+    string1 = articles[i]
+
+    file1 = open('articlesonly.txt', 'r')
+
+    flag = 0
+    index = 0
+
+    for line in file1:
+        index += 1
+
+        #cheching string is present in line or not.
+        if string1 in line:
+            flag = 1
+            break
+
+    if flag == 0:
+            print('Not found', string1)
+            print(i+1)
+            count+=1
+    else:
+            print("found in line", index)
+            count2 += 1
+
+#closing the file1
+print(count)
+print(count2)
+file1.close()

@@ -59,7 +59,7 @@ index = 0
  	index + = 1
 	
 	# checking string is presrnt in line or not.
-	if string in line:
+	if string1 in line:
 		flag = 1
 		break
 
