@@ -8,7 +8,7 @@
 [[Chikkaballapura]]
 [[Chikkamagaluru]]
 [[Chitradurga]]
-[[Dakshina]]
+[[Dakshina Karnataka]]
 [[Davanagere]]
 [[Dharwad]]
 [[Gadag]]

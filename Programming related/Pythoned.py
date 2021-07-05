@@ -177,7 +177,7 @@ articles = ["1. Name and territory of the Union",
 
 "87. Special address by the President",
 
-"88. Rights of Ministers and Attorney"
+"88. Rights of Ministers and Attorney",
 
 "89. The Chairman and Deputy Chairman of the Council of States",
 
@@ -193,7 +193,7 @@ articles = ["1. Name and territory of the Union",
 
 "95. Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker",
 
-"96. The Speaker or the Deputy Speaker not to preside while a resolution for his removal from office is under consideration 37-38",
+"96. The Speaker or the Deputy Speaker not to preside while a resolution for his removal from office is under consideration",
 
 "97. Salaries and allowances of the Chairman and Deputy Chairman and the Speaker and Deputy Speaker",
 
@@ -255,7 +255,7 @@ articles = ["1. Name and territory of the Union",
 
 "126. Appointment of acting Chief Justice",
 
-"127. Appointment of _ad hoc_ judges",
+"127. Appointment of ad hoc judges",
 
 "128. Attendance of retired Judges at sittings of the Supreme Court",
 
@@ -355,7 +355,7 @@ articles = ["1. Name and territory of the Union",
 
 "176. Special address by the Governor",
 
-"177. Rights of Ministers and Advocate-General as respects the Houses.Officers of the State Legislatur",
+"177. Rights of Ministers and Advocate-General as respects the Houses",
 
 "178. The Speaker and Deputy Speaker of the Legislative Assembly",
 
@@ -363,7 +363,7 @@ articles = ["1. Name and territory of the Union",
 
 "180. Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker",
 
-"181. The Speaker or the Deputy Speaker not to preside while a resolution for his removal from office isunder consideration",
+"181. The Speaker or the Deputy Speaker not to preside while a resolution for his removal from office is under consideration",
 
 "182. The Chairman and Deputy Chairman of the Legislative Council",
 
@@ -373,7 +373,7 @@ articles = ["1. Name and territory of the Union",
 
 "185. The Chairman or the Deputy Chairman not to preside while a resolution for his removal from officeis under consideration",
 
-"186. Salaries and allowances of the Speaker and Deputy Speaker and the Chairman and DeputyChairman",
+"186. Salaries and allowances of the Speaker and Deputy Speaker and the Chairman and Deputy Chairman",
 
 "187. Secretariat of State Legislature",
 
@@ -399,11 +399,11 @@ articles = ["1. Name and territory of the Union",
 
 "198. Special procedure in respect of Money Bills",
 
-"199. Definition of “Money Bills”",
+"199. Definition of 'Money Bills'",
 
 "200. Assent to Bills",
 
-"201. Bills reserved for consideration.Procedure in Financial Matter",
+"201. Bills reserved for consideration",
 
 "202. Annual financial statement",
 
@@ -415,7 +415,7 @@ articles = ["1. Name and territory of the Union",
 
 "206. Votes on account, votes of credit and exceptional grants",
 
-"207. Special provisions as to financial Bills.Procedure Generall",
+"207. Special provisions as to financial Bills",
 
 "208. Rules of procedure",
 
@@ -449,7 +449,8 @@ articles = ["1. Name and territory of the Union",
 
 "223. Appointment of acting Chief Justice",
 
-"224. Appointment of additional and acting Judges]",
+"224. Appointment of additional and acting Judges",
+
 "224A. Appointment of retired Judges at sittings of High Courts",
 
 "225. Jurisdiction of existing High Courts",
@@ -508,13 +509,13 @@ articles = ["1. Name and territory of the Union",
 
 "243I. Constitution of Finance Commission to review financial position ",
 
- "243J. Audit of accounts of Panchayats.]",
+"243J. Audit of accounts of Panchayats",
 
-"243K. Elections to the Panchayats.",
+"243K. Elections to the Panchayats",
 
-"243L. Application to Union territories. ",
+"243L. Application to Union territories",
 
-"243M. Part not to apply to certain areas.",
+"243M. Part not to apply to certain areas",
 
 "243N. Continuance of existing laws and Panchayats",
 
@@ -526,27 +527,27 @@ articles = ["1. Name and territory of the Union",
 
 "243R. Composition of Municipalities",
 
-"243S. Constitution and composition of Wards Committees, etc]]",
+"243S. Constitution and composition of Wards Committees, etc",
 
 "243T. Reservation of seats",
 
 "243U. Duration of Municipalities, etc",
 
-"243W. Powers, authority and responsibilities of Municipalities, etc.",
+"243W. Powers, authority and responsibilities of Municipalities, etc",
 
 "243X. Power to impose taxes by, and Funds of, the Municipalities",
 
-"243Y. Finance Commission]",
+"243Y. Finance Commission",
 
 "243Z. Audit of accounts of Municipalities",
 
 "243Z. Elections to the Municipalities",
 
-"243ZB. Application to Union territories]",
+"243ZB. Application to Union territories",
 
-"243ZC. Part not to apply to certain areas]",
+"243ZC. Part not to apply to certain areas",
 
-"243ZD. Committee for district planning]",
+"243ZD. Committee for district planning",
 
 "243ZE. Committee for Metropolitan planning",
 
@@ -614,7 +615,7 @@ articles = ["1. Name and territory of the Union",
 
 "258. Power of the Union to confer powers, etc., on States in certain cases. 258A. Power of the States to entrust functions to the Union",
 
-"259.  _Repealed.",
+"259. Repealed",
 
 "260. Jurisdiction of the Union in relation to territories outside India",
 
@@ -667,6 +668,7 @@ articles = ["1. Name and territory of the Union",
 "284. Custody of suitors‘ deposits and other moneys received by public servants and courts",
 
 "285. Exemption of property of the Union from State taxation",
+
 "286. Restrictions as to imposition of tax on the sale or purchase of goods",
 
 "287. Exemption from taxes on electricity",
@@ -676,6 +678,7 @@ articles = ["1. Name and territory of the Union",
 "289. Exemption of property and income of a State from Union taxation",
 
 "290. Adjustment in respect of certain expenses and pensions",
+
 "290A. Annual payment to certain Devaswom Funds",
 
 "291. _Repealed._",
@@ -690,11 +693,14 @@ articles = ["1. Name and territory of the Union",
 
 "296. Property accruing by escheat or laps or as bona vacantia",
 
-"297. Things of value within territorial waters or continental shelf and resources of the exclusiveeconomic zone to vest in the Union. 298 .Power to carry on trade, etc",
+"297. Things of value within territorial waters or continental shelf and resources of the exclusiveeconomic zone to vest in the Union",
+
+"298 .Power to carry on trade, etc",
 
 "299. Contracts",
 
 "300. Suits and proceedings",
+
 "300A. Persons not to be deprived of property save by authority of law",
 
 "301. Freedom of trade, commerce and intercourse",
@@ -717,7 +723,7 @@ articles = ["1. Name and territory of the Union",
 
 "310. Tenure of office of persons serving the Union or a State",
 
-"311. Dismissal, removal or reduction in rank of persons employed in civil capacities under the Unionor a State",
+"311. Dismissal, removal or reduction in rank of persons employed in civil capacities under the Union or a State",
 
 "312. All-India services",
 
@@ -747,15 +753,16 @@ articles = ["1. Name and territory of the Union",
 
 "324. Superintendence, direction and control of elections to be vested in an Election Commission",
 
-"325. No person to be ineligible for inclusion in, or to claim to be included in a special, electoral roll ongrounds of religion, race, caste or sex",
+"325. No person to be ineligible for inclusion in, or to claim to be included in a special, electoral roll on grounds of religion, race, caste or sex",
 
-"326. Elections to the House of the People and to the Legislative Assemblies of States to be on the basisof adult suffrage",
+"326. Elections to the House of the People and to the Legislative Assemblies of States to be on the basis of adult suffrage",
 
 "327. Power of Parliament to make provision with respect to elections to Legislatures",
 
 "328. Power of Legislature of a State to make provision with respect to elections to such Legislature",
 
 "329. Bar to interference by courts in electoral matters",
+
 "329A. Omitted.",
 
 "330. Reservation of seats for Scheduled Castes and Scheduled Tribes in the House of the People",
@@ -775,10 +782,12 @@ articles = ["1. Name and territory of the Union",
 "337. Special provision with respect to educational grants for the benefit of Anglo-Indian Community",
 
 "338. National Commission for Scheduled Castes",
+
 "338A. National Commission for Scheduled Tribes",
+
 "338B. National Commission for Backward Classes",
 
-"339. Control of the Union over the administration of Scheduled Areas and the welfare of ScheduledTribes",
+"339. Control of the Union over the administration of Scheduled Areas and the welfare of Scheduled Tribes",
 
 "340. Appointment of a Commission to investigate the conditions of backward classes",
 
@@ -814,7 +823,7 @@ articles = ["1. Name and territory of the Union",
 
 "353. Effect of Proclamation of Emergency",
 
-"354. Application of provisions relating to distribution of revenues while a Proclamation of Emergency isin operation",
+"354. Application of provisions relating to distribution of revenues while a Proclamation of Emergency is in operation",
 
 "355. Duty of the Union to protect States against external aggression and internal disturbance",
 
@@ -852,7 +861,7 @@ articles = ["1. Name and territory of the Union",
 
 "368. Power of Parliament to amend the Constitution and procedure therefor",
 
-"369. Temporary power to Parliament to make laws with respect to certain matters in the State List as ifthey were matters in the Concurrent List",
+"369. Temporary power to Parliament to make laws with respect to certain matters in the State List as if they were matters in the Concurrent List",
 
 "370. Temporary provisions with respect to the State of Jammu and Kashmir",
 
@@ -874,7 +883,7 @@ articles = ["1. Name and territory of the Union",
 
 "373. Power of President to make order in respect of persons under preventive detention in certain cases",
 
-"374. Provisions as to Judges of the Federal Court and proceedings pending in the Federal Court or beforeHis Majesty in Council",
+"374. Provisions as to Judges of the Federal Court and proceedings pending in the Federal Court or before His Majesty in Council",
 
 "375. Courts, authorities and officers to continue to function subject to the provisions of the Constitution",
 
@@ -892,7 +901,8 @@ articles = ["1. Name and territory of the Union",
 
 "393. Short title",
 
-"394. Commencement. 394A. Authoritative text in the Hindi language",
+"394. Commencement",
+"394A. Authoritative text in the Hindi language",
 
 "395. Repeals."]
 
@@ -923,10 +933,14 @@ for i in range(len(articles)):
             print(i+1)
             count+=1
     else:
+            f2 = open(string1, 'w')
+            f1.write(line)
+            f1.write(next(line))
             print("found in line", index)
+
             count2 += 1
 
-#closing the file1
+# closing the file1
 print(count)
 print(count2)
 file1.close()

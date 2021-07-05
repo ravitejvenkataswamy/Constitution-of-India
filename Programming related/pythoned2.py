@@ -3,7 +3,7 @@ articles = ["1. Name and territory of the Union",
 
 "3. Formation of new States and alteration of areas, boundaries or names of existing States",
 
-"4. Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and  supplemental, incidental and consequential matters",
+"4. Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters",
 
 "5. Citizenship at the commencement of the Constitution",
 
@@ -14,6 +14,8 @@ articles = ["1. Name and territory of the Union",
 ''' whenever you findout the string "1. Name and territory of the Union" in the file named articlesonly.txt search until "2. Admission or establishment of new States" and add everything in between to a
 newly created file named "1. Name and territory of the Union.md" '''
 
+count = 0
+count2 = 0
 for i in range(len(articles)):
     string1 = articles[i]
 
@@ -31,10 +33,18 @@ for i in range(len(articles)):
             break
 
     if flag == 0:
-            print('Not foundda')
-            print(i)
+            print('Not found', string1)
+            print(i+1)
+            count+=1
     else:
+            f2 = open(string1, 'w')
+            f2.write(line)
+            f2.write(next(line))
             print("found in line", index)
 
-#closing the file1
+            count2 += 1
+
+# closing the file1
+print(count)
+print(count2)
 file1.close()
